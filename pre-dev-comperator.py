@@ -11,6 +11,8 @@ proUserName = "pppcar"
 proPassward = ""
 
 
+
+
 def prn_obj(obj):
     print(['%s:%s' % item for item in obj.__dict__.items()])
 
